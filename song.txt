@@ -32,4 +32,21 @@ I still see it every time I pass (Ooh)
 It was lost in the corners of my mind
 Behind a box of reasons why
 I never doubted it was there (Ooh)
+<<<<<<< HEAD
 It just took a little time to find (Ooh)
+=======
+It just took a little time to find (Ooh)
+
+And even when I feel a million miles away
+Still, You connect me in Your way
+And You create in me somethin' I would've never seen
+When I could only see the floor
+You made my window a door
+So when they say they don't believe, I hope that they see You in me
+After all the lights go down
+I'm just the words, You are the sound
+A strange type of chemistry
+How You've become a part of me
+And when I sit alone at night, Your thoughts burn through me like a fire
+You're the only one who knows who I really am
+>>>>>>> third_couplet
